@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://alessandrobelotti106721.github.io/personalWebsite/"
+baseURL = "https://alebelo.github.io/personalWebsite/"
 title = "Alessandro Belotti | Website"
 theme = "somrat"
 # post pagination
