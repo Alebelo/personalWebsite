@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Alessandro Belotti | Website</title>
+    <link>https://alessandrobelotti106721.github.io/personalWebsite/portfolio/</link>
+    <description>Recent content in Project on Alessandro Belotti | Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sat, 10 Jul 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://alessandrobelotti106721.github.io/personalWebsite/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio fotografico</title>
+      <link>https://alessandrobelotti106721.github.io/personalWebsite/portfolio/project-3/</link>
+      <pubDate>Sat, 10 Jul 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://alessandrobelotti106721.github.io/personalWebsite/portfolio/project-3/</guid>
+      <description>Questo sito è stato realizzato a scopo personale per raccogliere in un portfolio alcuni scatti da me realizzati.</description>
+    </item>
+    
+    <item>
+      <title>Studio Covid-19</title>
+      <link>https://alessandrobelotti106721.github.io/personalWebsite/portfolio/project-2/</link>
+      <pubDate>Tue, 08 Jun 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://alessandrobelotti106721.github.io/personalWebsite/portfolio/project-2/</guid>
+      <description>Questo lavoro è stato svolto in gruppo durante il corso di Statistica 2 presso l&amp;rsquo;Università di Bergamo.</description>
+    </item>
+    
+    <item>
+      <title>Andamento PM10</title>
+      <link>https://alessandrobelotti106721.github.io/personalWebsite/portfolio/project-1/</link>
+      <pubDate>Sat, 16 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://alessandrobelotti106721.github.io/personalWebsite/portfolio/project-1/</guid>
+      <description>Studio dell&amp;rsquo;andamento del pm10 in funzione di altri inquinanti nelle stazioni di Bergamo e Moggio.</description>
+    </item>
+    
+    <item>
+      <title>Ado on stage</title>
+      <link>https://alessandrobelotti106721.github.io/personalWebsite/portfolio/project-4/</link>
+      <pubDate>Sun, 20 Oct 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://alessandrobelotti106721.github.io/personalWebsite/portfolio/project-4/</guid>
+      <description>Questo progetto è stato svolto in team presso l&amp;rsquo;istituto superiore Ettore Majorana su commissione della Biblioteca di Seriate.</description>
+    </item>
+    
+  </channel>
+</rss>
