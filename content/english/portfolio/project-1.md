@@ -11,7 +11,7 @@ project_info:
   content: "Università degli studi di Bergamo"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://drive.google.com/drive/folders/1qDiF-AxOvqtwG1Cw18ErmWak8uLzFZM3?usp=sharing"
+  content: "project/andamentoPM10.pdf"
 ---
 
 Studio dell'andamento del pm10 in funzione di altri inquinanti nelle stazioni di Bergamo e Moggio.
