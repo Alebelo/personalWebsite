@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Photography on Alessandro Belotti | Website</title><link>https://alebelo.github.io/personalWebsite/categories/photography/</link><description>Recent content in Photography on Alessandro Belotti | Website</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright><lastBuildDate>Sat, 10 Jul 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://alebelo.github.io/personalWebsite/categories/photography/index.xml" rel="self" type="application/rss+xml"/><item><title>Portfolio fotografico</title><link>https://alebelo.github.io/personalWebsite/portfolio/project-3/</link><pubDate>Sat, 10 Jul 2021 12:14:34 +0600</pubDate><guid>https://alebelo.github.io/personalWebsite/portfolio/project-3/</guid><description>Questo sito è stato realizzato a scopo personale per raccogliere in un portfolio alcuni scatti da me realizzati.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photography on Alessandro Belotti | Website</title>
+    <link>https://alebelo.github.io/personalWebsite/categories/photography/</link>
+    <description>Recent content in Photography on Alessandro Belotti | Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
+    <lastBuildDate>Sat, 10 Jul 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://alebelo.github.io/personalWebsite/categories/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portfolio fotografico</title>
+      <link>https://alebelo.github.io/personalWebsite/portfolio/project-3/</link>
+      <pubDate>Sat, 10 Jul 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://alebelo.github.io/personalWebsite/portfolio/project-3/</guid>
+      <description>Questo sito è stato realizzato a scopo personale per raccogliere in un portfolio alcuni scatti da me realizzati.</description>
+    </item>
+    
+  </channel>
+</rss>
