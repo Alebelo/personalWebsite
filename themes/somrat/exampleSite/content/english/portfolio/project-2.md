@@ -11,7 +11,7 @@ project_info:
   content: "Università degli studi di Bergamo"
 - name: "Project Link"
   icon: "fas fa-link"
-  content: "https://drive.google.com/drive/folders/1tAL87Ijp7wBSx_3n5YN1h2A6qEm9vFqp?usp=sharing"
+  content: "project/report.pdf", "project/report_pt2.pdf"
 ---
 Questo lavoro è stato svolto in gruppo durante il corso di Statistica 2 presso l'Università di Bergamo.
 Lo studio si divide in 2 parti, la prima si concentra sullo studio del dataset, la sua correzione, e la scelta del
