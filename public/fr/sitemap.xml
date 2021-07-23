@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alessandrobelotti106721.github.io/personalWebsite/fr/english/funfacts/</loc>
+    <loc>https://alebelo.github.io/personalWebsite/fr/english/funfacts/</loc>
   </url><url>
-    <loc>https://alessandrobelotti106721.github.io/personalWebsite/fr/english/about/</loc>
+    <loc>https://alebelo.github.io/personalWebsite/fr/english/about/</loc>
   </url><url>
-    <loc>https://alessandrobelotti106721.github.io/personalWebsite/fr/english/banner/</loc>
+    <loc>https://alebelo.github.io/personalWebsite/fr/english/banner/</loc>
   </url><url>
-    <loc>https://alessandrobelotti106721.github.io/personalWebsite/fr/</loc>
+    <loc>https://alebelo.github.io/personalWebsite/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alessandrobelotti106721.github.io/personalWebsite/"
+                href="https://alebelo.github.io/personalWebsite/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://alessandrobelotti106721.github.io/personalWebsite/fr/"
+                href="https://alebelo.github.io/personalWebsite/fr/"
                 />
   </url><url>
-    <loc>https://alessandrobelotti106721.github.io/personalWebsite/fr/categories/</loc>
+    <loc>https://alebelo.github.io/personalWebsite/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alessandrobelotti106721.github.io/personalWebsite/categories/"
+                href="https://alebelo.github.io/personalWebsite/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://alessandrobelotti106721.github.io/personalWebsite/fr/categories/"
+                href="https://alebelo.github.io/personalWebsite/fr/categories/"
                 />
   </url><url>
-    <loc>https://alessandrobelotti106721.github.io/personalWebsite/fr/english/contact/</loc>
+    <loc>https://alebelo.github.io/personalWebsite/fr/english/contact/</loc>
   </url><url>
-    <loc>https://alessandrobelotti106721.github.io/personalWebsite/fr/english/</loc>
+    <loc>https://alebelo.github.io/personalWebsite/fr/english/</loc>
   </url><url>
-    <loc>https://alessandrobelotti106721.github.io/personalWebsite/fr/english/call-to-action/</loc>
+    <loc>https://alebelo.github.io/personalWebsite/fr/english/call-to-action/</loc>
   </url><url>
-    <loc>https://alessandrobelotti106721.github.io/personalWebsite/fr/english/service/</loc>
+    <loc>https://alebelo.github.io/personalWebsite/fr/english/service/</loc>
   </url><url>
-    <loc>https://alessandrobelotti106721.github.io/personalWebsite/fr/tags/</loc>
+    <loc>https://alebelo.github.io/personalWebsite/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alessandrobelotti106721.github.io/personalWebsite/tags/"
+                href="https://alebelo.github.io/personalWebsite/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://alessandrobelotti106721.github.io/personalWebsite/fr/tags/"
+                href="https://alebelo.github.io/personalWebsite/fr/tags/"
                 />
   </url><url>
-    <loc>https://alessandrobelotti106721.github.io/personalWebsite/fr/english/testimonial/</loc>
+    <loc>https://alebelo.github.io/personalWebsite/fr/english/testimonial/</loc>
   </url>
 </urlset>
