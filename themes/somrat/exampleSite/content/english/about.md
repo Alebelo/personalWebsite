@@ -5,7 +5,7 @@ image : "images/backgrounds/portrait.jpg"
 button:
   enable : true
   label : "DOWNLOAD MY CV"
-  link : "/content/Alessandro_Belotti_CV.pdf"
+  link : "/document/Alessandro_Belotti_CV.pdf"
 
 ########################### Experience ##############################
 experience:
