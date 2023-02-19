@@ -42,7 +42,7 @@ skill:
 
     # skill item loop
     - name : "Statistics"
-      description : "Modelli regressivi, buona conoscenza dei principali modelli per processi stocastici"
+      description : " Regressive models, good knowledge of the main Stochastics processes Modelli regressivi, buona conoscenza dei principali modelli per processi stocastici"
       percentage : "85%"
 
     # skill item loop
